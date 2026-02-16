@@ -11,7 +11,9 @@ git log -> mostra todo o histórico de commit
 3. Edita ou cria arquivos
 4. git status
 5. git add <nome arquivo>
-6. git commit -m "mensagem"
-7. volta para o passo 3
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta para o passo 3
 
 
