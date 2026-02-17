@@ -1,3 +1,5 @@
 arquivo 01 para branch secundária 01
 
-alterações da Ana no arquivo
+
+alterações da Ana no arquivo. arquivo alterado para testar conflito
+
