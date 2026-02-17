@@ -1,1 +1,3 @@
 arquivo 01 para branch secundária 01
+
+arquivo alterado para testar conflito
