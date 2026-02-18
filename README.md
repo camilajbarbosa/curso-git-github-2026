@@ -1,2 +1,2 @@
-\# Curso Teo Me Why - Git e Github
+\#Curso Teo Me Why Git \& GitHub
 
